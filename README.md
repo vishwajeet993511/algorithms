@@ -1,2 +1,2 @@
-# algorithms
-practiced examples
+# Algorithms
+Practised examples
